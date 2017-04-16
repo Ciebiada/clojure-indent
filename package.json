@@ -1,0 +1,22 @@
+{
+  "name": "clojure-indent",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/Ciebiada/clojure-indent",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^10.0.2"
+  },
+  "scripts": {
+    "standard": "standard"
+  },
+  "standard": {
+    "globals": ["atom"]
+  }
+}
