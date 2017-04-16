@@ -1,9 +1,14 @@
 {
   "name": "clojure-indent",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Minimal Atom package for indenting Clojure code",
-  "keywords": ["clojure", "indent", "indenting", "syntax"],
+  "keywords": [
+    "clojure",
+    "indent",
+    "indenting",
+    "syntax"
+  ],
   "repository": "https://github.com/Ciebiada/clojure-indent",
   "license": "MIT",
   "engines": {
@@ -17,6 +22,8 @@
     "standard": "standard"
   },
   "standard": {
-    "globals": ["atom"]
+    "globals": [
+      "atom"
+    ]
   }
 }
