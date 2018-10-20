@@ -1,7 +1,7 @@
 {
   "name": "clojure-indent",
   "main": "./lib/main",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Minimal Atom package for indenting Clojure code",
   "keywords": [
     "clojure",
