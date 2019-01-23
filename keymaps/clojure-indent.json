@@ -1,5 +1,6 @@
 {
   "atom-text-editor[data-grammar~=\"clojure\"]": {
-    "enter": "clojure-indent:insert-new-line"
+    "enter": "clojure-indent:insert-new-line",
+    "cmd-i": "clojure-indent:reindent-selected"
   }
 }
